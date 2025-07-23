@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual maior país do mundo em extensão territorial?',
+    'Rússia, com aproximadamente 17.098.276 km2'
 )
 
 criaCartao(
