@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Em qual continente se encotra o deserto do Saara?',
-    'Como se diz oi em Inglês?',
+    'Geografia',
+    'Em qual continente se encontra o deserto do Saara?',
     'África'
 )
