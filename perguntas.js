@@ -21,8 +21,3 @@ criaCartao(
     'Em qual continente se encontra o deserto do Saara?',
     'África'
 )
-criaCartao(
-    'Geografia'
-    'pipipopopo'
-    'sai sai sai '
-)
