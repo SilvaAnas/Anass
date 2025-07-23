@@ -1,5 +1,5 @@
 :root {
-    --text-color: ##FFFFFF;
+    --text-color: #FFF;
     --card-front-color: #0b1e74;
     --card-back-color: #09216e;
 }
@@ -22,7 +22,6 @@ body {
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
-    background : 'https://th.bing.com/th/id/R.1ea14e0141dc9cdc20699a55e24703f0?rik=ZuqSJeWrd1NVPA&pid=ImgRaw&r=0'
 }
 
 .cartao__conteudo {
