@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Geografia',
+    'Qual país é conhecido por ter uma formato parecido com uma bota?',
+    'Itália'
 )
 
 criaCartao(
@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Geografia',
+    'Qual maior oceano do mundo?',
+    'Oceano Pacífico'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Em qual continente se encotra o deserto do Saara?',
     'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'África'
 )
